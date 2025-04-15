@@ -92,3 +92,7 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
 
 <br/>
 <br/>
+
+### 📊 Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardov7070&show_icons=true)
