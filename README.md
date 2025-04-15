@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Ricardo Vinícius, tenho 25 anos e sou natural de Betim/MG. Sou Viciado por tecnologia e, em especial, por desenvolvimento de sistemas, pois acredito que cada linha de código é uma nova oportunidade de transformar ideias em soluções inovadoras que podem impactar o mundo!
+Me chamo Ricardo Vinícius, tenho 25 anos e sou natural de Betim/MG. Sou Viciado por tecnologia e, em especial, por desenvolvimento de sistemas.
+Pois acredito que cada linha de código é uma nova oportunidade de transformar ideias em soluções inovadoras que podem impactar o mundo!
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -61,7 +62,7 @@ Me chamo Ricardo Vinícius, tenho 25 anos e sou natural de Betim/MG. Sou Viciado
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
 <img 
@@ -75,3 +76,13 @@ Me chamo Ricardo Vinícius, tenho 25 anos e sou natural de Betim/MG. Sou Viciado
 
 <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+
+<br/>
+<br/>
