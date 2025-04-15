@@ -4,8 +4,10 @@
 <br/>
 <br/>
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardov7070?igsh=a2NhaHZ0aHQ2dmc2)
+[![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AA1CzaEmZ/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-vinicius-037780178/)
 
-Me chamo Ricardo Vinícius, tenho 25 anos e sou natural de Betim/MG. Sou Viciado por tecnologia e, em especial, por desenvolvimento de sistemas.
+Olá, tenho 25 anos e sou natural de Betim/MG. Sou Viciado por tecnologia e, em especial, por desenvolvimento de sistemas.
 Pois acredito que cada linha de código é uma nova oportunidade de transformar ideias em soluções inovadoras que podem impactar o mundo!
 ---
 
