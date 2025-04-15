@@ -1,6 +1,8 @@
 # 👩🏻‍💻 Ricardo Vinícius
 
 **`Desenvolvedor Full-Stack`**
+<br/>
+<br/>
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardov7070?igsh=a2NhaHZ0aHQ2dmc2)
 
 Me chamo Ricardo Vinícius, tenho 25 anos e sou natural de Betim/MG. Sou Viciado por tecnologia e, em especial, por desenvolvimento de sistemas.
