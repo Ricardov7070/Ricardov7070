@@ -108,7 +108,7 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
     alt="GitHub Stats"
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardov7070&size_weight=0.5&count_weight=0.5&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardov7070&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&include_all_commits=true&custom_title=Tecnologias&locale=pt-br" 
 />
 
 
