@@ -95,4 +95,20 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardov7070&show_icons=true&theme=tokyonight)
+<img 
+    align="left" 
+    alt="GitHub Stats"
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Ricardov7070&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub Stats"
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardov7070&size_weight=0.5&count_weight=0.5&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
+
