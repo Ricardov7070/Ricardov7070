@@ -40,6 +40,14 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
 />
 <img 
     align="left" 
+    alt="Vue"
+    title="Vue" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vue/vue-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
