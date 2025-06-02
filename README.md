@@ -44,7 +44,7 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
   title="Vue.js" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/vue/vue-original.svg" 
+  src="https://devicon-website.vercel.app/api/vuejs/original.svg"
 />
 <img 
     align="left" 
