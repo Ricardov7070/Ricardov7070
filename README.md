@@ -39,12 +39,12 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
-    align="left" 
-    alt="Vue"
-    title="Vue" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vue/vue-original.svg" 
+  align="left" 
+  alt="Vue.js" 
+  title="Vue.js" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/vue/vue-original.svg" 
 />
 <img 
     align="left" 
