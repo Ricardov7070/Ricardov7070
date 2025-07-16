@@ -8,7 +8,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-vinicius-037780178/)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5531971696570&text&type=phone_number&app_absent=0&wame_ctl=1)
 
-Olá, tenho 25 anos e sou natural de Betim/MG. Sou Viciado por tecnologia e, em especial, por desenvolvimento de sistemas.
+Olá, tenho 26 anos e sou natural de Betim/MG. Sou Viciado por tecnologia e, em especial, por desenvolvimento de sistemas.
 Pois acredito que cada linha de código é uma nova oportunidade de transformar ideias em soluções inovadoras que podem impactar o mundo!
 ---
 
