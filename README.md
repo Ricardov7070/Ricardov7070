@@ -110,6 +110,14 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" 
 />
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/354099/mysql.svg" 
+/>
 
 <br/>
 <br/>
