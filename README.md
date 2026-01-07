@@ -48,16 +48,16 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="PHP" 
+    title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
-    alt="Node" 
-    title="Node"
+    alt="Oracle" 
+    title="Oracle"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
@@ -72,8 +72,8 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
