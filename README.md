@@ -39,6 +39,14 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
+    align="left" 
+    alt="Tailwind"
+    title="Tailwind" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
   align="left" 
   alt="Vue.js" 
   title="Vue.js" 
@@ -78,7 +86,6 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Laravel" 
@@ -87,7 +94,6 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -96,7 +102,14 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="PostgresSQL"
+    title="PostgresSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" 
+/>
 
 <br/>
 <br/>
@@ -108,7 +121,7 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
     alt="GitHub Stats"
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ricardov7070&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Ricardov7070&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-b" 
 />
 
 <img 
