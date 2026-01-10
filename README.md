@@ -133,7 +133,7 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=Ricardo&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false%22%20alt=%22GitHub%20Insights" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=Ricardo&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true%22%20alt=%22GitHub%20Insights" alt="GitHub Insights" />
 </p>
 
 
