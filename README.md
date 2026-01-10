@@ -124,20 +124,8 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
 
 ### 📊 Estatísticas
 
-<img 
-    align="left" 
-    alt="GitHub Stats"
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://gh-readme-profile.vercel.app/api?username=Ricardov7070&theme=dark&locale=pt" 
-/>
-
-<img 
-    align="left" 
-    alt="GitHub Stats"
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardov7070&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact&include_all_commits=true&custom_title=Tecnologias&locale=pt-br&langs_count=10" 
-/>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=ViktorSvertoka&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</p>
 
 
