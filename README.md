@@ -104,6 +104,14 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
 />
 <img 
     align="left" 
+    alt="Azure DevOps"
+    title="Azure DevOps" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PostgresSQL"
     title="PostgresSQL" 
     width="30px" 
