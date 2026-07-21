@@ -134,6 +134,14 @@ Pois acredito que cada linha de código é uma nova oportunidade de transformar 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/354099/mysql.svg" 
 />
+<img 
+    align="left" 
+    alt="Ruby"
+    title="Ruby" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/452095/ruby.svg" 
+/>
 
 <br/>
 <br/>
